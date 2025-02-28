@@ -1,0 +1,27 @@
+ctransformers
+sentence-transformers
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
+langchain-community
+huggingface_hub
+-e .
+selenium
+tqdm
+pillow
+requests
+beautifulsoup4
+transformers
+torch
+diffusers
+accelerate
+safetensors
+datasets
+transformers
+peft
+torchvision
+
+
+

@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: mythological_image_generator
+Version: 0.1.0
+Summary: An AI-powered tool for reconstructing historical and mythological scenes using generative AI.
+Author: Nakul Patil
+License-File: LICENSE
+Dynamic: author
+Dynamic: summary
